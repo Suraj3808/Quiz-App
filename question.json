@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Fathometer is used to measure",
+        "choice1": "Earthquakes",
+        "choice2": "Rainfall",
+        "choice3": "Ocean depth",
+        "choice4": "Sound intensity",
+        "answer": 3
+    },
+    {
+        "question": "Epsom(England) is the place associated with",
+         "choice1": " Snooker",
+        "choice2": "Shooting",
+        "choice3": "Polo",
+        "choice4": "Horse racing",
+        "answer": 4
+    },
+    {
+        "question": "Fastest Shorthand Writer was",
+        "choice1": "Dr. G. D. Bist",
+        "choice2": "J.R.D. Tata",
+        "choice3": " J.M. Tagore",
+        "choice4": "Khudada Khan",
+        "answer": 1
+    }
+]
